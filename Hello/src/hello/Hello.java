@@ -11,7 +11,7 @@ import java.util.function.Predicate;
 
 /**
  *
- * @author COSLAB
+ * @author Daniel
  */
 public class Hello {
 
